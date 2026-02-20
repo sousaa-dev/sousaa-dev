@@ -69,7 +69,7 @@ I'm looking for my **first internship opportunity in IT**, aiming to grow profes
 - PostgreSQL (Intermediário)
 
 ### 📌 Outros
-- Git / GitHub
+- Git / GitHub (Básico)
 - Excel (Básico)
 - Word (Básico)
 - PowerPoint (Básico)

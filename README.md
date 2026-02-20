@@ -37,7 +37,7 @@ I'm looking for my **first internship opportunity in IT**, aiming to grow profes
 ## 🚀 Tecnologias | Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,java,php,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react, ts,python,java,postgresql" />
 </p>
 
 ---
@@ -52,7 +52,8 @@ I'm looking for my **first internship opportunity in IT**, aiming to grow profes
 - TypeScript (Em aprendizado)
 
 ### ⚙️ Back-end / Banco de Dados
-- Java (Básico / Intermediário)
+- Java (Básico)
+- Python (Em aprendizado)
 - PHP (Básico)
 - PostgreSQL (Intermediário)
 

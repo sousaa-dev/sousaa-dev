@@ -36,8 +36,19 @@ I'm looking for my **first internship opportunity in IT**, aiming to grow profes
 
 ## 🚀 Tecnologias | Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react, ts,python,java,postgresql" />
+### 🎨 Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts" />
+</p>
+
+### ⚙️ Back-end
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,php" />
+</p>
+
+### 🗄️ Banco de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 ---

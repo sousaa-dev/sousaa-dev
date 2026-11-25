@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Cloud+Security;Microsoft+365+Administration;AWS+%26+Linux+Infrastructure;AI+%26+IT+Automation;Software+Development" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Cloud+Security;Microsoft+365+Administration;AWS+%26+Linux+Infrastructure;Artificial+Intelligence+%26+Automation;Software+Development" />
 </p>
 
 <p align="center">
@@ -22,57 +22,73 @@
 
 ---
 
-## 🛡️ Sobre mim | About Me
+## 🛡️ About Me | Sobre Mim
 
-🇧🇷 Sou estudante de Tecnologia da Informação, com experiência profissional em **Cibersegurança, Infraestrutura Cloud, Administração de Sistemas e Automação de Processos**.
+### 🇺🇸 English
 
-Atuo como estagiário de TI na **Net4tress**, empresa especializada em segurança da informação, trabalhando com administração de ambientes corporativos, políticas de segurança, infraestrutura em nuvem e soluções de automação integradas à inteligência artificial.
+I'm an Information Technology student with professional experience in **Cybersecurity, Cloud Infrastructure, Systems Administration, Artificial Intelligence and Process Automation**.
 
-Possuo também conhecimentos em desenvolvimento de software, bancos de dados e integração de APIs, buscando unir programação, segurança e infraestrutura para construir soluções eficientes, escaláveis e seguras.
+I work as an IT Intern at **Net4tress**, a company specialized in information security, working with corporate environment administration, security policies, cloud infrastructure, Linux server hardening and AI-powered automation solutions.
 
-🇺🇸 I'm an Information Technology student with professional experience in **Cybersecurity, Cloud Infrastructure, Systems Administration and Process Automation**.
+I also have knowledge of software development, databases and API integration, combining programming, security and infrastructure to build efficient, scalable and secure solutions.
 
-I work as an IT Intern at **Net4tress**, a cybersecurity company, focusing on corporate environment administration, security policies, cloud infrastructure and AI-powered automation solutions.
+I'm passionate about technology, continuous learning and solving real-world problems through innovation and automation.
 
-I also have knowledge of software development, databases and API integration, aiming to combine programming, security and infrastructure to build efficient, scalable and secure solutions.
+### 🇧🇷 Português
+
+Sou estudante de Tecnologia da Informação, com experiência profissional em **Cibersegurança, Infraestrutura Cloud, Administração de Sistemas, Inteligência Artificial e Automação de Processos**.
+
+Atuo como estagiário de TI na **Net4tress**, empresa especializada em segurança da informação, trabalhando com administração de ambientes corporativos, políticas de segurança, infraestrutura em nuvem, hardening de servidores Linux e soluções de automação integradas à inteligência artificial.
+
+Possuo também conhecimentos em desenvolvimento de software, bancos de dados e integração de APIs, unindo programação, segurança e infraestrutura para construir soluções eficientes, escaláveis e seguras.
+
+Sou apaixonado por tecnologia, aprendizado contínuo e resolução de problemas reais por meio da inovação e automação.
 
 ---
 
-## 💼 Experiência Profissional | Professional Experience
+## 💼 Professional Experience | Experiência Profissional
 
 ### 🛡️ Net4tress — IT Intern
 
-`Cybersecurity` `Cloud Infrastructure` `IT Administration` `Automation`
+<p>
+  <img src="https://img.shields.io/badge/Industry-Cybersecurity-059669?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Department-Information_Technology-2563eb?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Location-Rio_de_Janeiro-0f172a?style=flat-square"/>
+</p>
 
-#### 🇧🇷 Principais atividades
-
-- Administração de ambientes corporativos Microsoft 365.
-- Criação e configuração de políticas de segurança, acesso e atualização de ativos.
-- Implantação e configuração de servidores VPS Linux na AWS.
-- Aplicação de políticas de hardening e controle de acesso em servidores Linux.
-- Instalação e configuração de plataformas de automação.
-- Desenvolvimento de workflows utilizando n8n.
-- Desenvolvimento de chatbots integrados à inteligência artificial.
-- Integração de APIs e serviços externos.
-- Análise de documentação técnica e procedimentos de TI.
-- Capacitação profissional em tecnologias relacionadas à segurança da informação.
-
-#### 🇺🇸 Main responsibilities
+### 🇺🇸 Main Responsibilities
 
 - Administration of corporate Microsoft 365 environments.
-- Configuration of security, access and asset update policies.
+- Configuration of security and access policies.
+- Configuration of corporate asset update policies.
 - Deployment and configuration of Linux VPS instances on AWS.
-- Linux server hardening and access management.
+- Implementation of Linux server hardening policies.
+- Access control and systems administration.
 - Installation and configuration of automation platforms.
 - Development of automated workflows using n8n.
 - Development of AI-powered chatbots.
-- Integration of APIs and external services.
-- Technical documentation analysis and IT procedures.
+- Integration of messaging platforms and external APIs.
+- Analysis of technical documentation and IT procedures.
 - Professional training in information security technologies.
+
+### 🇧🇷 Principais Atividades
+
+- Administração de ambientes corporativos Microsoft 365.
+- Configuração de políticas de segurança e acesso.
+- Configuração de políticas de atualização de ativos corporativos.
+- Implantação e configuração de servidores VPS Linux na AWS.
+- Implementação de políticas de hardening em servidores Linux.
+- Controle de acesso e administração de sistemas.
+- Instalação e configuração de plataformas de automação.
+- Desenvolvimento de workflows automatizados utilizando n8n.
+- Desenvolvimento de chatbots integrados à inteligência artificial.
+- Integração de plataformas de comunicação e APIs externas.
+- Análise de documentação técnica e procedimentos de TI.
+- Capacitação profissional em tecnologias de segurança da informação.
 
 ---
 
-## ⚡ Áreas de atuação | Areas of Expertise
+## ⚡ Technical Focus | Áreas de Atuação
 
 <table>
   <tr>
@@ -81,7 +97,7 @@ I also have knowledge of software development, databases and API integration, ai
       Security Policies<br>
       System Hardening<br>
       Access Management<br>
-      Endpoint Security
+      Information Security
     </td>
     <td align="center" width="50%">
       <h3>☁️ Cloud & Infrastructure</h3>
@@ -94,7 +110,7 @@ I also have knowledge of software development, databases and API integration, ai
   <tr>
     <td align="center" width="50%">
       <h3>🤖 AI & Automation</h3>
-      n8n Workflows<br>
+      Workflow Automation<br>
       AI Chatbots<br>
       API Integration<br>
       Process Automation
@@ -111,38 +127,92 @@ I also have knowledge of software development, databases and API integration, ai
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas | Tech Stack
+## 🛠️ Tech Stack | Tecnologias e Ferramentas
 
 ### 🛡️ Cybersecurity & Systems Administration
 
 <p>
   <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/System_Hardening-059669?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Access_Management-0f172a?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Security_Policies-0f172a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer_Networking-2563EB?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud Computing & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,bash,docker&theme=dark"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/VPS-0f172a?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/SSH-059669?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EasyPanel-10B981?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
 
 ### 🤖 Artificial Intelligence & Automation
 
+#### Workflow Automation
+
 <p>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-059669?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Evolution_API-0f172a?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webhooks-0f172a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Workflow_Automation-059669?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Process_Automation-0f172a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+#### AI Platforms & Development Assistants
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Chatbots-059669?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0f172a?style=for-the-badge&logoColor=white"/>
+</p>
+
+#### API Integration & Communication
+
+<p>
+  <img src="https://img.shields.io/badge/Evolution_API-059669?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp_Integration-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-2563EB?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webhooks-0f172a?style=for-the-badge&logo=webhook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTTP-059669?style=for-the-badge&logoColor=white"/>
+</p>
+
+#### Automation Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EasyPanel-10B981?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Self_Hosted-0f172a?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+#### Technologies of Interest | Tecnologias de Interesse
+
+<p>
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dify-2563EB?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flowise-059669?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ### 💻 Programming Languages
@@ -151,19 +221,25 @@ I also have knowledge of software development, databases and API integration, ai
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,php&theme=dark"/>
 </p>
 
-### 🌐 Software Development
+### 🌐 Front-end Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,flask,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark"/>
 </p>
 
-### 🗄️ Databases
+### ⚙️ Back-end Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,nextjs&theme=dark"/>
+</p>
+
+### 🗄️ Databases & Backend Services
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark"/>
 </p>
 
-### ⚙️ Development Tools
+### 🔧 Development Tools & Version Control
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark"/>
@@ -171,30 +247,55 @@ I also have knowledge of software development, databases and API integration, ai
 
 ---
 
-## 🧠 Atualmente estudando | Currently Learning
+## 🎯 Learning Roadmap | Roteiro de Aprendizado
 
-- 🔐 Cybersecurity Fundamentals
-- ☁️ Cloud Security & AWS
-- 🐧 Linux Administration & Hardening
-- 🌐 Computer Networking
-- 👤 Identity & Access Management
-- 🛡️ Vulnerability Management
-- 🤖 Artificial Intelligence & Workflow Automation
-- 🐍 Python for Security & Automation
+### 🛡️ Cybersecurity
+
+- Security Fundamentals
+- Linux Hardening
+- Identity & Access Management (IAM)
+- Vulnerability Management
+- Security Information and Event Management (SIEM)
+- Network Security
+- Cloud Security
+- Security Automation
+
+### ☁️ Cloud & DevOps
+
+- AWS Cloud Infrastructure
+- Docker & Containerization
+- Infrastructure Security
+- Linux Systems Administration
+- CI/CD Pipelines
+- Infrastructure as Code
+
+### 🤖 Artificial Intelligence & Automation
+
+- Advanced n8n Workflows
+- AI Agents & Multi-Agent Systems
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Model Context Protocol (MCP)
+- Prompt Engineering
+- Business Process Automation
+- API Orchestration
+- Self-hosted AI Solutions
 
 ---
 
-## 📂 Projetos em destaque | Featured Projects
+## 📂 Featured Projects | Projetos em Destaque
 
 ### 🎓 FaeNet — Academic Social Network
+
+🇺🇸 An academic social network developed as a final technical course project, designed to connect students and teachers through social and educational features.
+
+The project includes publications, private messaging, academic communities, user management, content moderation and artificial intelligence integration.
 
 🇧🇷 Rede social acadêmica desenvolvida como projeto de conclusão do curso Técnico em Informática, voltada à integração entre estudantes e professores.
 
 O projeto contempla publicações, mensagens privadas, comunidades acadêmicas, gerenciamento de usuários, moderação de conteúdo e integração com inteligência artificial.
 
-🇺🇸 Academic social network developed as a final technical course project, designed to connect students and teachers through social and educational features.
-
-**Technologies:**
+**Technologies | Tecnologias**
 
 `React` `TypeScript` `Web Development` `AI Integration`
 
@@ -202,11 +303,11 @@ O projeto contempla publicações, mensagens privadas, comunidades acadêmicas, 
 
 ### 🚗 Etesc Auto Parts
 
-🇧🇷 Site institucional desenvolvido para uma empresa fictícia de autopeças sustentáveis, apresentado na **Rio Innovation Week**, evento de tecnologia e inovação.
+🇺🇸 Institutional website developed for a fictional sustainable auto parts company as an academic project, presented at **Rio Innovation Week**, a major technology and innovation event in Latin America.
 
-🇺🇸 Institutional website developed for a fictional sustainable auto parts company and presented at **Rio Innovation Week**, a technology and innovation event.
+🇧🇷 Site institucional desenvolvido para uma empresa fictícia de autopeças sustentáveis, como projeto acadêmico, apresentado na **Rio Innovation Week**, um dos grandes eventos de tecnologia e inovação da América Latina.
 
-**Technologies:**
+**Technologies | Tecnologias**
 
 `HTML` `CSS` `JavaScript` `Three.js`
 
@@ -223,29 +324,45 @@ O projeto contempla publicações, mensagens privadas, comunidades acadêmicas, 
 
 ### 🗄️ School Management API
 
-🇧🇷 API REST para gerenciamento de informações acadêmicas, incluindo cadastro de alunos, operações CRUD, integração com banco de dados e visualização de indicadores.
-
 🇺🇸 REST API designed to manage academic information, including student registration, CRUD operations, database integration and data visualization.
 
-**Technologies:**
+🇧🇷 API REST desenvolvida para gerenciamento de informações acadêmicas, incluindo cadastro de alunos, operações CRUD, integração com banco de dados e visualização de indicadores.
+
+**Technologies | Tecnologias**
 
 `Python` `Flask` `PostgreSQL` `REST API`
 
 ---
 
-## 🎓 Formação Acadêmica | Education
+### 🤖 AI & Workflow Automation
+
+🇺🇸 Development of automated workflows and AI-powered chatbot solutions, integrating communication platforms, external APIs and self-hosted infrastructure.
+
+🇧🇷 Desenvolvimento de workflows automatizados e soluções de chatbot integradas à inteligência artificial, conectando plataformas de comunicação, APIs externas e infraestrutura própria.
+
+**Technologies | Tecnologias**
+
+`n8n` `Evolution API` `Webhooks` `REST APIs` `Linux` `AWS`
+
+> Professional implementations are not publicly available due to confidentiality.
+
+> Implementações profissionais não estão disponíveis publicamente por questões de confidencialidade.
+
+---
+
+## 🎓 Education | Formação Acadêmica
 
 ### FAETEC — Escola Técnica Estadual Santa Cruz
 
-**Ensino Médio integrado ao Técnico em Informática**
+🇺🇸 **Technical High School in Information Technology**
 
-**Technical High School in Information Technology**
+🇧🇷 **Ensino Médio integrado ao Técnico em Informática**
 
 📍 Rio de Janeiro, Brazil
 
-📅 Conclusão prevista | Expected graduation: 2026
+📅 Expected Graduation | Conclusão prevista: 2026
 
-Principais áreas de conhecimento | Main subjects:
+### Main Subjects | Principais Disciplinas
 
 - Software Development
 - Computer Networking
@@ -256,21 +373,23 @@ Principais áreas de conhecimento | Main subjects:
 
 ---
 
-## 📚 Cursos e Capacitações | Courses & Training
+## 📚 Courses & Professional Training | Cursos e Capacitações
 
-| Curso / Course | Instituição / Institution |
+| Course / Curso | Institution / Instituição |
 |---|---|
-| Modelagem de Dados | Fundação Bradesco |
-| Introdução à Gestão de Projetos | Fundação Bradesco |
-| Formação Front-end | Udemy |
-| Capacitações em Segurança da Informação | Udemy / Corporate Training |
+| Data Modeling / Modelagem de Dados | Fundação Bradesco |
+| Introduction to Project Management / Introdução à Gestão de Projetos | Fundação Bradesco |
+| Front-end Development / Formação Front-end | Udemy |
+| Information Security Training / Capacitações em Segurança da Informação | Udemy / Corporate Training |
 
 ---
 
-## 🌍 Idiomas | Languages
+## 🌍 Languages | Idiomas
 
-- 🇧🇷 **Portuguese:** Native
-- 🇺🇸 **English:** Basic / Intermediate
+| Language / Idioma | Proficiency / Proficiência |
+|---|---|
+| 🇧🇷 Portuguese / Português | Native / Nativo |
+| 🇺🇸 English / Inglês | Basic to Intermediate / Básico a Intermediário |
 
 ---
 
@@ -293,25 +412,28 @@ Principais áreas de conhecimento | Main subjects:
 
 ---
 
-## 📫 Contato | Contact
+## 📫 Connect With Me | Entre em Contato
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-sousa-ribeiro-39a742350/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:pablodev.09@gmail.com">
-    <img src="https://img.shields.io/badge/Send_an_Email-059669?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sousaa-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building secure systems, automating processes and continuously learning."</i>
+  <i>"Building secure systems, automating processes and continuously evolving."</i>
 </p>
 
 <p align="center">
-  <code>Cybersecurity • Cloud • Automation • Development</code>
+  <code>Cybersecurity • Cloud Security • Artificial Intelligence • Automation • Development</code>
 </p>
 
 <p align="center">
